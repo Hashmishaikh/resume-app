@@ -1,0 +1,34 @@
+.card{
+    width: 90%;
+   align-self:center;
+   margin: auto;
+   background-color: rgb(19, 17, 15);
+   color: white;
+}
+.card-img-top{
+    border-radius: 50%;
+    width:20vw;
+    margin: auto;
+    margin-top:-30px;
+}
+.card-text > h3{
+text-transform: uppercase;
+
+}
+.intern_cert{
+    width: 60vw;
+    height: 35vh;
+    border-radius: 20%;
+}
+.intern_cert_modal{
+   margin-left: 15%;
+    width: 80%;
+    height: 30%; 
+}
+.modal-body{
+    width: 100%;
+    
+}
+.but{
+    bottom: auto;
+}
